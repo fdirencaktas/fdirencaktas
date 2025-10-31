@@ -14,7 +14,7 @@ I build **systematic trading systems**, **quant research tools**, and **data-dri
 **Other:** Excel Automation
 
 ### 🎥 Content & Community
-- YouTube: [F. Direnc Aktas](https://www.youtube.com/@fdirencaktas)
+- YouTube: [F. Direnc Aktas](https://www.youtube.com/@fdirencaktas) -Turkish
 
 ### 🤝 Collaborate
 I'm open to:
