@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🏰 Fortress Wealth | Quant Trader • Python Developer • Educator
 
-<!--
-**fdirencaktas/fdirencaktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital research lab.  
+I build **systematic trading systems**, **quant research tools**, and **data-driven business frameworks** — blending finance, coding, and strategy.
 
-Here are some ideas to get you started:
+📍 Currently building: Multi-Asset Backtesting Framework (Python)  
+📊 Focus: Quant Strategy Design | Portfolio Analytics | Data Visualization  
+🎯 Mission: Building *Fortress Wealth* — a system for modern wealth creation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+**Core:** Python (Pandas, NumPy, Matplotlib, Backtesting.py)  
+**Data:** Yahoo Finance  
+**Dashboards:** Power BI, Tableau  
+**Other:** Excel Automation
+
+### 🎥 Content & Community
+- YouTube: [F. Direnc Aktas](https://www.youtube.com/@fdirencaktas)
+
+### 🤝 Collaborate
+I'm open to:
+- Freelance projects (Python + Finance)
+- Research collaborations
+- Startup analytics partnerships
+
+📧 direncak2@gmail.com
+
