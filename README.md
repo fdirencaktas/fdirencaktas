@@ -8,10 +8,10 @@ I build **systematic trading systems**, **quant research tools**, and **data-dri
 🎯 Mission: Building *Fortress Wealth* — a system for modern wealth creation.
 
 ### 🧠 Tech Stack
-**Core:** Python (Pandas, NumPy, Matplotlib, Backtesting.py)  
-**Data:** Yahoo Finance  
-**Dashboards:** Power BI, Tableau  
-**Other:** Excel Automation
+**Core:** Python (Pandas, NumPy, VectorBT, Backtesting.py)
+**Visualization:** Plotly, Power BI, Tableau, Matplotlib
+**Data:** Yahoo Finance (yfinance), pandas-ta
+**Focus Areas:** Systematic Trading, Backtesting, Strategy Optimization, Performance Analytics
 
 ### 🎥 Content & Community
 - YouTube: [F. Direnc Aktas](https://www.youtube.com/@fdirencaktas) -Turkish
