@@ -3,8 +3,8 @@
 Welcome to my digital research lab.  
 I build **systematic trading systems**, **quant research tools**, and **data-driven business frameworks** — blending finance, coding, and strategy.
 
-📍 Currently building: Multi-Asset Backtesting Framework (Python)  
-📊 Focus: Quant Strategy Design | Portfolio Analytics | Data Visualization  
+📍 Currently building: -  
+📊 Focus: Quant Strategy Design | Portfolio Analytics  
 🎯 Mission: Building *Fortress Wealth* — a system for modern wealth creation.
 
 ### 🧠 Tech Stack
