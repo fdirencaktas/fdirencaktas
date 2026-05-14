@@ -1,26 +1,21 @@
-# 🏰 Fortress Wealth | Quant Trader • Python Developer • Educator
+# Fikri Direnç Aktaş
 
-Welcome to my digital research lab.  
-I build **systematic trading systems**, **quant research tools**, and **data-driven business frameworks** — blending finance, coding, and strategy.
+Quantitative researcher focused on political economy of markets, systematic trading, and real estate finance.
 
-📍 Currently building: -  
-📊 Focus: Quant Strategy Design | Portfolio Analytics  
-🎯 Mission: Building *Fortress Wealth* — a system for modern wealth creation.
+## Research Program
+- Two Primitives of Spot Market Strategy
+- Two Primitives, One Synthetic
+- Political Economy of Market Regimes
+- Decision Framework for the Political Systematical Trader
+- Turkish REITs and Direct Real Estate
 
-### 🧠 Tech Stack
-**Core:** Python (Pandas, NumPy, VectorBT, Backtesting.py)
-**Visualization:** Plotly, Power BI, Tableau, Matplotlib
-**Data:** Yahoo Finance (yfinance), pandas-ta
-**Focus Areas:** Systematic Trading, Backtesting, Strategy Optimization, Performance Analytics
+## Featured Repository
+[Fortress Research](link) - Code for all working papers
 
-### 🎥 Content & Community
-- YouTube: [F. Direnc Aktas](https://www.youtube.com/@fdirencaktas) -Turkish
+## Languages & Tools
+Python, pandas, statsmodels, arch, yfinance, matplotlib
 
-### 🤝 Collaborate
-I'm open to:
-- Freelance projects (Python + Finance)
-- Research collaborations
-- Startup analytics partnerships
-
+## Links
+[SSRN](https://www.ssrn.com/author=11237428) | [LinkedIn](https://www.linkedin.com/in/direncaktas) 
 📧 direncak2@gmail.com
 
