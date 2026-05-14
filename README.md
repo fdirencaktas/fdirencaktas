@@ -10,7 +10,7 @@ Quantitative researcher focused on political economy of markets, systematic trad
 - Turkish REITs and Direct Real Estate
 
 ## Featured Repository
-[fortress-research](link) - Code for all working papers
+[Fortress Research](https://github.com/fdirencaktas/fortress-research) - Code for all working papers
 
 ## Languages & Tools
 Python, pandas, statsmodels, arch, yfinance, matplotlib
